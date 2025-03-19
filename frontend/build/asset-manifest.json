@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7a1fb980.css",
+    "main.js": "/static/js/main.a6f85c5e.js",
+    "static/js/488.daf410dc.chunk.js": "/static/js/488.daf410dc.chunk.js",
+    "static/media/woman_wearing_fine_jewelry.jpg": "/static/media/woman_wearing_fine_jewelry.ec6e66d152ee535dc9f5.jpg",
+    "static/media/FuturaNowHeadlineThin.ttf": "/static/media/FuturaNowHeadlineThin.61843fff3d35f1f3025c.ttf",
+    "static/media/website_banner-02.webp": "/static/media/website_banner-02.96e1d11454d064ed9437.webp",
+    "index.html": "/index.html",
+    "main.7a1fb980.css.map": "/static/css/main.7a1fb980.css.map",
+    "main.a6f85c5e.js.map": "/static/js/main.a6f85c5e.js.map",
+    "488.daf410dc.chunk.js.map": "/static/js/488.daf410dc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7a1fb980.css",
+    "static/js/main.a6f85c5e.js"
+  ]
+}
